@@ -1,3 +1,8 @@
 Lets begin this github repository. Hopefully creating and merging brqnches goes well.
 
 It hasnt gone that well, I didnt realize you needed to git add then git commit to actually create a branch.
+
+Well heres how it looks:
+branch 1 = OG_branch
+branch 2 = branch_three
+branch 3 = branch_real_three
