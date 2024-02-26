@@ -1,1 +1,3 @@
 Lets begin this github repository. Hopefully creating and merging brqnches goes well.
+
+It hasnt gone that well, I didnt realize you needed to git add then git commit to actually create a branch.
