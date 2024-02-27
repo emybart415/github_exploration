@@ -7,4 +7,6 @@ branch 1 = OG_branch
 branch 2 = branch_three
 branch 3 = branch_real_three
 
+<<<<<<< HEAD
 create dog branch
+>>>>>>> mouse_branch
